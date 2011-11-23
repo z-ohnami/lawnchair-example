@@ -1,0 +1,14 @@
+
+.words-edit {
+  border:0;
+
+}
+
+.words-delete:hover {
+  color:red;
+  cursor:pointer;
+}
+
+ul li {
+  list-style-type: none;
+}
